@@ -4,13 +4,7 @@ Who is former process engineer in manufacturing electronic field and learning Ru
 Recently, using Ruby on Rails 8, chartkick, bootstrap to build a pet feeding tracker app with chart :bar_chart: and date :date: for owner to easily track the pet's eating amount trend :chart_with_upwards_trend:. However, this app has more room to imporve it, and my 2025 goal is to build an app which can not only see the amount trend but also can tell the owner which canned/dry food your cat :heart_eyes_cat: loves it. 
 
 ## 📚 Languages & Frameworks
-- Ruby On Rails
-- Ruby
-- JavaScript, TypeScript
-HTML5
-CSS
-- Bootstrap
-- Postgres
+Ruby On Rails Ruby JavaScript TypeScript HTML5 CSS Bootstrap Postgres
 <!--
 **yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
