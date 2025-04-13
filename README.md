@@ -7,7 +7,7 @@ Recently, using Ruby on Rails 8, chartkick, bootstrap to build a pet feeding tra
 Ruby On Rails Ruby JavaScript TypeScript HTML5 CSS Bootstrap Postgres
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt_text](https://raw.githubusercontent.com/github/explore/8…4ef2fca1e82350fe8e3517d3494d/topics/html/html.png "Logo Title Text 1")
+![alt_text](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg "Logo Title Text 1")
 
 <!--
 **yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
