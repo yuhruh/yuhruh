@@ -1,6 +1,6 @@
 ## Who is Rita?? <a href="https://www.linkedin.com/in/yuruhuang/"><img src="https://github.com/yuhruh/yuhruh/blob/branch/linkedin.svg" alt="Rita Huang | LinkedIn" width="30"/></a>
 
-Who is former process engineer in manufacturing electronic field and learning Ruby at Launch School to transfer career field as a software engineer. Rita is from Taiwan and looking for a remote software engineer opportunity, who can work overlap with at least 3-4 hours with CST/EST. 
+A former global process engineer in manufacturing electronic field and learning Ruby at Launch School to transfer career field as a software engineer. Rita is from Taiwan and looking for a remote software engineer opportunity, who can work overlap with at least 3-4 hours with CST/EST. 
 
 Recently, using Ruby on Rails 8, chartkick, bootstrap to build a pet feeding tracker app with chart :bar_chart: and date :date: for owner to easily track the pet's eating amount trend :chart_with_upwards_trend:. However, this app has more room to imporve it, and my 2025 goal is to build an app which can not only see the amount trend but also can tell the owner which canned/dry food your cat :heart_eyes_cat: loves it :heartbeat::heartbeat:. Here is the app link: https://test-tracker-v1-68679b6d52bd.herokuapp.com/home
 
