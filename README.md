@@ -7,12 +7,10 @@ Recently, using Ruby on Rails 8, chartkick, bootstrap to build a pet feeding tra
 - Ruby On Rails
 - Ruby
 - JavaScript, TypeScript
-- HTML/CSS
+HTML5
+CSS
 - Bootstrap
 - Postgres
-
-## 🔧 Tools
-- Version Control (Git)
 <!--
 **yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
