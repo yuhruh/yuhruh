@@ -1,4 +1,4 @@
-## Who is Rita?? <a href="https://www.linkedin.com/in/yuruhuang/"><img align="left" src="https://www.svgrepo.com/show/205292/linkedin.svg" alt="icon | LinkedIn" width="30"/></a>
+## Who is Rita?? <a href="https://www.linkedin.com/in/yuruhuang/"><img src="https://www.svgrepo.com/show/205292/linkedin.svg" alt="icon | LinkedIn" width="30"/></a>
 
 Who is former process engineer in manufacturing electronic field and learning Ruby at Launch School to transfer career field as a software engineer. Rita is from Taiwan and looking for a remote software engineer opportunity, who can work overlap with at least 3-4 hours with CST/EST. 
 
