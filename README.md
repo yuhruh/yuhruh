@@ -1,5 +1,15 @@
-## Hi there 👋
+Rita #yuhruh
 
+📚 Languages & Frameworks
+- Ruby On Rails
+- Ruby
+- JavaScript, TypeScript
+- HTML/CSS
+- Bootstrap
+- Postgres
+
+🔧 Tools
+- Version Control (Git)
 <!--
 **yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
