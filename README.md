@@ -1,6 +1,4 @@
-Rita #yuhruh
-
-📚 Languages & Frameworks
+## 📚 Languages & Frameworks
 - Ruby On Rails
 - Ruby
 - JavaScript, TypeScript
@@ -8,7 +6,7 @@ Rita #yuhruh
 - Bootstrap
 - Postgres
 
-🔧 Tools
+## 🔧 Tools
 - Version Control (Git)
 <!--
 **yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
