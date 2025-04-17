@@ -13,7 +13,7 @@ Recently, using Ruby on Rails 8, chartkick, bootstrap to build a pet feeding tra
 2. Display 5-10 most favorite foods that cat loves
 3. Auto-filling feeding time based on user's timezone
 4. Add record column for number of pee/poo
-5. Gmail :gmail: sign up added as an alternative way
+5. Gmail sign up added as an alternative way
 
 <!--
 **yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
