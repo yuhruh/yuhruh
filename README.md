@@ -1,4 +1,4 @@
-## Who is Rita?? <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="Rita Huang | LinkedIn" width="30"/></a>
+## Rita <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="Rita Huang | LinkedIn" width="30"/></a>
 
 A former global process engineer in manufacturing electronic field. Currently, learn Ruby/JavaScript/TypeScript at Launch School to transfer career path as a software engineer :computer:. Rita is from Taiwan and looking for a remote software engineer opportunity, who can work overlap with at CST/EST at least 3-4 hours/day. 
 
