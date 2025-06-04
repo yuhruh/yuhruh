@@ -5,6 +5,7 @@ A former Global Process Engineer in the electronics manufacturing industry, now 
 I'm based in Taiwan and actively seeking remote software engineering opportunities, with the ability to overlap 3–4 hours/day with CST or EST time zones.
 
 Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, and Bootstrap to help pet owners visualize their pets’ eating trends over time. While developing this project, I also gained hands-on experience with Stimulus and Turbo, deepening my understanding of modern Rails workflows.
+
 🔗 Check it out: <a href="https://feeding-tracker-v2-3e86df55d613.herokuapp.com/home" target="_blank">Pet Feeding Tracker</a>
 
 My goal for 2025 is to take this app even further — by adding intelligent features that analyze trends and suggest which canned or dry food your cat 😻 loves most 💓.
