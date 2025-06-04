@@ -1,8 +1,13 @@
 ## Rita | Software Engineer | <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="Rita Huang | LinkedIn" width="30"/></a>
 
-A former global process engineer in manufacturing electronic field. Currently, learn Ruby/JavaScript/TypeScript at Launch School to transfer career path as a software engineer :computer:. Rita is from Taiwan and looking for a remote software engineer opportunity, who can work overlap with at CST/EST at least 3-4 hours/day. 
+A former Global Process Engineer in the electronics manufacturing industry, now transitioning into software engineering. Currently studying Ruby, JavaScript, and TypeScript at Launch School, I’m passionate about writing clean, maintainable code and building applications that solve real-world problems.
 
-Recently, using Ruby on Rails 8, chartkick, bootstrap to build a pet feeding tracker app with chart :bar_chart: and date :date: for owner to easily track the pet's eating amount trend :chart_with_upwards_trend:. However, this app has more room to imporve it, and my 2025 goal is to build an app which can not only see the amount trend but also can tell the owner which canned/dry food your cat :heart_eyes_cat: loves it :heartbeat::heartbeat:. Here is the app link: https://test-tracker-v1-68679b6d52bd.herokuapp.com/home
+I'm based in Taiwan and actively seeking remote software engineering opportunities, with the ability to overlap 3–4 hours/day with CST or EST time zones.
+
+Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, and Bootstrap to help pet owners visualize their pets' eating trends over time. (📊+📅)
+Check it out: <a href="https://feeding-tracker-v2-3e86df55d613.herokuapp.com/home">Pet Feeding Tracker</a>
+
+My 2025 goal is to evolve this app beyond tracking — by adding intelligent features that analyze trends and recommend which canned or dry food your cat 😻 loves most 💓.
 
 ## :dart: Skill Set
 
