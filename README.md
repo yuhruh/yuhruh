@@ -16,10 +16,15 @@ My goal for 2025 is to take this app even further — by adding intelligent feat
 
 ## 🔭 New Feature on Pet Feeding Tracker :smiley_cat:: Coming Soon 🎉
 ✅ 1. There are wet food options showing when log records if the favorite score is >= 20
+
 ✅ 2. Displaying foods 🥫 list's favorite score that cat loves, the list can filter by All/Dry/Wet
+
 ✅ 3. Auto-filling feeding time and date based on user's timezone
+
 4. Keep track bathroom 🚽 visits
+   
 ✅ 5. An alternative sign-in: Google and Line
+
 ✅ 6. Password Reset and Welcome Mailer
 
 <!--
