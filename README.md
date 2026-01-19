@@ -1,14 +1,14 @@
 ## Rita | Software Engineer | <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="Rita Huang | LinkedIn" width="30"/></a>
 
-A former Global Process Engineer in the electronics manufacturing industry, now transitioning into software engineering. Currently studying Ruby, JavaScript, and TypeScript at Launch School, I’m passionate about writing clean, maintainable code and building applications that solve real-world problems.
+A former Global Process Engineer in the electronics manufacturing industry, now transitioning into software engineering. I’m passionate about writing clean, maintainable code and building applications that solve real-world problems.
 
 I'm based in Taiwan and actively seeking remote software engineering opportunities, with the ability to overlap at least 3–4 hours/day with CST or EST time zones.
 
-Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, PostgreSQL and Bootstrap to help pet owners visualize their pets’ eating trends over time. While developing this project, I also gained hands-on experience with StimulusJS and Turbo, deepening my understanding of modern Rails workflows.
+Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, PostgreSQL and Bootstrap/TailwindCSS(On going) to help cat owners visualize their cats’ eating trends over time. While developing this project, I also gained hands-on experience with StimulusJS and Turbo, deepening my understanding of modern Rails workflows.
 
 🔗 Check it out: <a href="https://pet-feeding-tracker-v3-bv01.onrender.com/" target="_blank">Pet Feeding Tracker</a>
 
-My goal for 2025 is to take this app even further — by adding intelligent features that analyze trends and suggest which wet or dry food your cat 😻 loves most 💓.
+My goal for 2026 is to take this app even further — by adding intelligent features that analyze trends and suggest which wet or dry food your cat 😻 loves most 💓.
 
 ## :dart: Skill Set
 
