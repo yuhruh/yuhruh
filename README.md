@@ -4,11 +4,10 @@ A former Global Process Engineer in the electronics manufacturing industry, now 
 
 I'm based in Taiwan and actively seeking remote software engineering opportunities, with the ability to overlap at least 3–4 hours/day with CST or EST time zones.
 
-Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, PostgreSQL and Bootstrap/TailwindCSS(On going) to help cat owners visualize their cats’ eating trends over time. While developing this project, I also gained hands-on experience with StimulusJS and Turbo, deepening my understanding of modern Rails workflows.
+Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, PostgreSQL and Bootstrap/TailwindCSS to help cat owners visualize their cats’ eating trends over time. While developing this project, I also gained hands-on experience with StimulusJS and Turbo, deepening my understanding of modern Rails workflows.
 
 🔗 Check it out: <a href="https://pet-feeding-tracker-v4.onrender.com/" target="_blank">Pet Feeding Tracker</a>
 
-My goal for 2026 is to take this app even further — by adding intelligent features that analyze trends and suggest which wet or dry food your cat 😻 loves most 💓.
 
 ## :dart: Skill Set
 
