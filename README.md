@@ -1,4 +1,4 @@
-## Rita | Software Engineer | <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="Rita Huang | LinkedIn" width="30"/></a>
+## Rita | Software Engineer | <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="Rita Huang | LinkedIn" width="30"/></a>
 
 A former Global Process Engineer in the electronics manufacturing industry, now transitioning into software engineering. I’m passionate about writing clean, maintainable code and building applications that solve real-world problems.
 
