@@ -78,6 +78,10 @@ Want to know more about me? <a href="https://drive.google.com/file/d/1-fJ_dcbkpp
   </tbody>
 </table>
 
+## 😎 Fun Facts
+In my downtime, I love researching cat 😼 behavior, doing core exercises, and practicing yoga.
+
+
 ## 📫 Reach out and Connect with me
 <ul>
   <li>
