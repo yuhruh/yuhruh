@@ -10,7 +10,7 @@ Want to know more about me? <a href="https://drive.google.com/file/d/1-fJ_dcbkpp
 
 
 
-## :dart: Skill Set
+## 🧑‍💻: Skill Set
 
 <table>
   <thead>
