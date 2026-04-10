@@ -1,10 +1,7 @@
-## Rita | Software Engineer | <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="Rita Huang | LinkedIn" width="25"/></a>
+## Hello! I'm Rita 👋
 
-A former Global Process Engineer in the electronics manufacturing industry, now transitioning into software engineering. I’m passionate about writing clean, maintainable code and building applications that solve real-world problems.
+I am a full-stack engineer with experience in Ruby on Rails, Ruby, JavaScript, PostgreSQL, and Tailwind CSS. I am leveraging my engineering background to build a visualization tool that streamlines communication with my veterinarian.
 
-I'm based in Taiwan and actively seeking remote software engineering opportunities, with the ability to overlap at least 3–4 hours/day with CST or EST time zones.
-
-Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, PostgreSQL and Bootstrap/TailwindCSS to help cat owners visualize their cats’ eating trends over time. While developing this project, I also gained hands-on experience with StimulusJS and Turbo, deepening my understanding of modern Rails workflows.
 
 ## 🐈 Pet Feeder Tracker App
 <a href="https://pet-feeding-tracker-v4.up.railway.app/" target="_blank">Pet Feeder Tracker App</a> is an app transformed unmanaged Excel datasets to visualized charts for owner easily track what their pets eating trend over time.
@@ -78,6 +75,16 @@ Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, Po
     </tr>
   </tbody>
 </table>
+
+## 📫 Reach out and Connect with me
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
+  </li>
+  <li>
+    <a href="mailto:yuhruhgrape@gmail.com?subject=Discuss about Pet Feeder Tracker App">Email</a>
+  </li>
+</ul>
 
 
 <!--
