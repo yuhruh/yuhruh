@@ -11,7 +11,27 @@ Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, Po
 
 ## :dart: Skill Set
 
-<img src="https://www.svgrepo.com/show/376345/rails.svg" alt="RoR" width="50"/> <img src="https://www.svgrepo.com/show/452095/ruby.svg" alt="Ruby" width="50"/> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="50"/> <img src="https://www.svgrepo.com/show/439022/typescript.svg" alt="TypeScript" width="50"/> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" width="50"/> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="50"/> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="nodeJs" width="50"/> <img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" width="50"/> <img src="https://www.svgrepo.com/show/349520/sublimetext.svg" alt="sublime text" width="50"/> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="VS code" width="50"/> <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" width="50"/> <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind CSS" width="50"> <img src="https://www.svgrepo.com/show/439268/postgresql.svg" alt="PostgreSQL" width="50"/>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Skill</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Programming Languages</strong>
+      </td>
+      <td>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8dac650006498fb91d4099890d9d5e983aa6d0f2c3ff13cc6caf1f6b3b03b90b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f6c6f676f3d72756279266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/8dac650006498fb91d4099890d9d5e983aa6d0f2c3ff13cc6caf1f6b3b03b90b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f6c6f676f3d72756279266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="Ruby Badge" data-canonical-src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63aed10ac720e9384af0cc9c8f7dee584170705f91cf4ef747bd97975390fdeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/63aed10ac720e9384af0cc9c8f7dee584170705f91cf4ef747bd97975390fdeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="TypeScript Badge" data-canonical-src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ee7cf7f523d25dd641fbb20146790df37dbc4f48ff9062ccd8f3e83d6e5fb45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030267374796c653d666c6174"><img src="https://camo.githubusercontent.com/0ee7cf7f523d25dd641fbb20146790df37dbc4f48ff9062ccd8f3e83d6e5fb45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030267374796c653d666c6174" alt="JavaScript Badge" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=000&amp;style=flat" style="max-width: 100%;"></a>
+      </td>
+      
+    </tr>
+  </tbody>
+</table>
 
 
 <!--
