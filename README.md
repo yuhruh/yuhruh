@@ -79,7 +79,7 @@ Want to know more about me? <a href="https://drive.google.com/file/d/1-fJ_dcbkpp
 </table>
 
 ## 😎 Fun Facts
-In my downtime, I love researching cat 😼 behavior, doing core exercises, and practicing yoga.
+In my downtime, I love researching cat 😼 behavior, doing core exercises, and practicing yoga. :yoga:
 
 
 ## 📫 Reach out and Connect with me
