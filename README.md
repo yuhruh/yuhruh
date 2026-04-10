@@ -82,7 +82,8 @@ I am a full-stack engineer with experience in Ruby on Rails, Ruby, JavaScript, P
     <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
   </li>
   <li>
-    <a href="mailto:yuhruhgrape@gmail.com?subject=Discuss about Pet Feeder Tracker App">Email</a>
+    <a href="mailto:yuhruhgrape@gmail.com?subject=Discuss%20about%20Pet%20Feeder%20Tracker%20App&body=Hi%20Rita,%0D%0
+     A%0D%0AI%20would%20like%20to%20learn%20more%20about...">Email</a>
   </li>
 </ul>
 
