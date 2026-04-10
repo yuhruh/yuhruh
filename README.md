@@ -7,9 +7,8 @@ I'm based in Taiwan and actively seeking remote software engineering opportuniti
 Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, PostgreSQL and Bootstrap/TailwindCSS to help cat owners visualize their cats’ eating trends over time. While developing this project, I also gained hands-on experience with StimulusJS and Turbo, deepening my understanding of modern Rails workflows.
 
 ## 🐈 Pet Feeder Tracker App
+<a href="https://pet-feeding-tracker-v4.up.railway.app/" target="_blank">Pet Feeder Tracker App is an app transformed unmanaged Excel datasets to visualized charts for owner easily track what their pets eating trend over time.
 
-
-🔗 Check it out: <a href="https://pet-feeding-tracker-v4.onrender.com/" target="_blank">Pet Feeding Tracker</a>
 
 
 ## :dart: Skill Set
