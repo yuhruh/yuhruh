@@ -61,7 +61,7 @@ Recently, I built a pet feeding tracker app using Ruby on Rails 8, Chartkick, Po
         <strong>Cloud & Infrastructure</strong>
       </td>
       <td>
-        <a target="_blank" href="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge" style="max-width: 100%;"></a>
+        <a target="_blank" href="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge"><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" style="max-width: 100%;"></a>
         <a target="_blank" href="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat" alt="Render Badge" style="max-width: 100%;"></a>
         <a target="_blank" href="https://img.shields.io/badge/Railway-131313?logo=railway&logoColor=white&style=flat" alt="Railway Badge" style="max-width: 100%;"></a>
       </td>
