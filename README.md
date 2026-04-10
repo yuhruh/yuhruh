@@ -1,4 +1,4 @@
-## Hello! I'm Rita 👋
+## Hello! I'm Rita 👋 🐈‍⬛
 
 I am a full-stack engineer with experience in Ruby on Rails, Ruby, JavaScript, PostgreSQL, and Tailwind CSS. I am leveraging my engineering background to build a visualization tool that streamlines communication with my veterinarian.
 
