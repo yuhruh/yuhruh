@@ -2,7 +2,7 @@
 
 I am a full-stack engineer with experience in Ruby on Rails, Ruby, JavaScript, PostgreSQL, and Tailwind CSS. I am leveraging my engineering background to build a visualization tool that streamlines communication with my veterinarian.
 
-Want to know more about me? <a href="https://drive.google.com/file/d/1-fJ_dcbkppFYoiM4C1_HnR2gL1mtrUqn/view?usp=drive_link" target="_blank">Resume</a>
+Want to know more about me? <a href="https://drive.google.com/file/d/1QOczU2u7TxXap6qvaCJMSxtgxt3C3Nan/view?usp=drive_link" target="_blank">Resume</a>
 
 
 ## 🐈 Pet Feeder Tracker App
