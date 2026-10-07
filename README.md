@@ -96,6 +96,10 @@ In my downtime, I love researching cat 😼 behavior, doing core exercises 💪,
 </ul>
 
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhruh&show_icons=true&theme=dark)
+
+
 <!--
 **yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
