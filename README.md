@@ -4,7 +4,7 @@ I am a full-stack engineer with experience in Ruby on Rails, Ruby, JavaScript, P
 
 Want to know more about me? <a href="https://drive.google.com/file/d/1fVInxwiyuu4mX3hiTltXPavghAyFHowh/view?usp=sharing" target="_blank">Resume</a>
 
-![](https://komarev.com/ghpvc/?username=yuhruh)
+![&color=green, &style=flat-square](https://komarev.com/ghpvc/?username=yuhruh)
 
 
 ## 🐈 Pet Feeder Tracker App
