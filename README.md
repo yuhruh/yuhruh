@@ -4,6 +4,8 @@ I am a full-stack engineer with experience in Ruby on Rails, Ruby, JavaScript, P
 
 Want to know more about me? <a href="https://drive.google.com/file/d/1fVInxwiyuu4mX3hiTltXPavghAyFHowh/view?usp=sharing" target="_blank">Resume</a>
 
+![](https://komarev.com/ghpvc/?username=yuhruh)
+
 
 ## 🐈 Pet Feeder Tracker App
 <a href="https://pet-feeding-tracker-v4.up.railway.app/" target="_blank">Pet Feeder Tracker App</a> is an app transformed unmanaged Excel datasets to visualized charts for owner easily track what their pets eating trend over time.
