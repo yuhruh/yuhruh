@@ -97,7 +97,7 @@ In my downtime, I love researching cat 😼 behavior, doing core exercises 💪,
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhruh&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhruh&show_icons=true&theme=dark&commits_year=2026)
 
 
 <!--
