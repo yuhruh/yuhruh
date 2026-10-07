@@ -90,6 +90,7 @@ In my downtime, I love researching cat 😼 behavior, doing core exercises 💪,
     <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
   </li>
   <li>
+    [Email](mailto:yuhruhgrape@gmail.com?subject=Pet%20Feeding%20Tracker)
     <a href="mailto:yuhruhgrape@gmail.com?subject=Discuss%20about%20Pet%20Feeder%20Tracker%20App&body=Hi%20Rita,%0D%0
      A%0D%0AI%20would%20like%20to%20learn%20more%20about...">Email</a>
   </li>
