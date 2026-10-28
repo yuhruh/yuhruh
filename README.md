@@ -1,14 +1,19 @@
 ## Hello! I'm Rita 👋 😺
 
-I am a full-stack engineer with experience in Ruby on Rails, Ruby, JavaScript, PostgreSQL, and Tailwind CSS. I am leveraging my engineering background to build a visualization tool that streamlines communication with my veterinarian.
+I am a full-stack engineer with experience in Ruby on Rails, Ruby, TypeScript, JavaScript, PostgreSQL, and Tailwind CSS. I leverage my engineering background to build practical tools for everyday problems, from household bills to tracking my cats' eating habits.
 
 Want to know more about me? <a href="https://drive.google.com/file/d/1fVInxwiyuu4mX3hiTltXPavghAyFHowh/view?usp=sharing" target="_blank">Resume</a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yuhruh&color=green&style=flat-square)
 
 
-## 🐈 Pet Feeder Tracker App
-<a href="https://pet-feeding-tracker-v4.up.railway.app/" target="_blank">Pet Feeder Tracker App</a> is an app transformed unmanaged Excel datasets to visualized charts for owner easily track what their pets eating trend over time.
+## 🚀 Projects
+
+### 🏠 Household Tracker
+<a href="https://household-tracker.up.railway.app" target="_blank">Household Tracker</a> is an installable web app (PWA) that replaced my family's Google Sheet of household bills. Members share ledgers for expenses, maintenance and taxes, recurring bills create themselves, and everyone gets a daily reminder digest by Web Push, email and an in-app inbox. It also scans the barcodes on Taiwan convenience-store bills to fill in a record. Built with Rails 8 and PostgreSQL on Railway, in zh-TW and English. (<a href="https://github.com/yuhruh/household_notification" target="_blank">Source</a>)
+
+### 🐈 Pet Feeder Tracker App
+<a href="https://pet-feeding-tracker-v4.up.railway.app/" target="_blank">Pet Feeder Tracker App</a> turns unmanaged Excel datasets into visualized charts so owners can easily track their pets' eating trends over time.
 
 
 
