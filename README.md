@@ -1,121 +1,72 @@
 ## Hello! I'm Rita 👋 😺
 
-I am a full-stack engineer with experience in Ruby on Rails, Ruby, TypeScript, JavaScript, PostgreSQL, and Tailwind CSS. I leverage my engineering background to build practical tools for everyday problems, from household bills to tracking my cats' eating habits.
+Full-stack engineer building production software across API, web and mobile: **TypeScript / NestJS** services on **PostgreSQL** with **React** and **React Native** clients, plus two **Ruby on Rails 8** apps of my own in daily production use. I came to software after a decade of process and R&D engineering, doing root-cause work on noisy real-world data.
 
-Want to know more about me? <a href="https://drive.google.com/file/d/1fVInxwiyuu4mX3hiTltXPavghAyFHowh/view?usp=sharing" target="_blank">Resume</a>
+📍 Taiwan · Remote · Available 13:00–23:00 GMT+8 (most of the EU workday, US East Coast mornings) · Open to full-time or contract
+
+🌐 <a href="https://yuhruh.github.io" target="_blank">Portfolio</a> · 📄 <a href="https://drive.google.com/file/d/1fVInxwiyuu4mX3hiTltXPavghAyFHowh/view?usp=sharing" target="_blank">Resume</a> · 💼 <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yuhruh&color=green&style=flat-square)
 
+## 💼 Now
+
+**Full-Stack Engineer**, early-stage US startup (independent contractor, remote), since 2026.07. I work on a production app on web, iOS and Android (TypeScript, NestJS, PostgreSQL, React, React Native):
+
+- **API and data model:** NestJS REST endpoints and PostgreSQL schema changes; merged plan and access checks that had drifted apart across clients into one server-side resolver.
+- **Type-safe contracts:** a TypeScript code-generation pipeline that emits Swift and Kotlin from one schema.
+- **Integration reliability:** per-device push delivery receipts; webhook and inbound-email handlers that fail loudly instead of reporting success while dropping data.
+- **AI-assisted, human-owned delivery:** a Claude Code pipeline where each ticket runs in its own git worktree, with a root-cause plan I approve, tests on all platforms and a reviewed PR.
 
 ## 🚀 Projects
 
-### 🏠 Household Tracker
-<a href="https://household-tracker.up.railway.app" target="_blank">Household Tracker</a> is an installable web app (PWA) that replaced my family's Google Sheet of household bills. Members share ledgers for expenses, maintenance and taxes, recurring bills create themselves, and everyone gets a daily reminder digest by Web Push, email and an in-app inbox. It also scans the barcodes on Taiwan convenience-store bills to fill in a record. Built with Rails 8 and PostgreSQL on Railway, in zh-TW and English. (<a href="https://github.com/yuhruh/household_notification" target="_blank">Source</a>)
+### 🏠 Household Tracker · shared bill tracker PWA in zh-TW and English
+Replaced my family's Google Sheet. Rails 8.1 · PostgreSQL · Hotwire · Web Push · Solid Queue · Apache ECharts · Sentry · Railway
 
-### 🐈 Pet Feeder Tracker App
-<a href="https://pet-feeding-tracker-v4.up.railway.app/" target="_blank">Pet Feeder Tracker App</a> turns unmanaged Excel datasets into visualized charts so owners can easily track their pets' eating trends over time.
+- **Sheet to product:** shared ledgers, one-step bill entry by scanning a Taiwan bill's barcode, recurring bills that never duplicate, and a preview-then-commit CSV import that is safe to re-run.
+- **Reliable reminders:** one daily digest per member in their own time zone, by Web Push, email and in-app inbox. Unique indexes act as locks so a double run never sends twice.
+- **Operations and testing:** encrypted weekly database backups plus a Google Drive backup; about 365 Minitest tests with Brakeman, RuboCop and dependency audits in CI.
 
+<a href="https://github.com/yuhruh/HouseHold_Notification" target="_blank">Code</a> · <a href="https://github.com/yuhruh/HouseHold_Notification/tree/main/docs/adr" target="_blank">Design decisions (6 ADRs)</a> · <a href="https://household-tracker.up.railway.app" target="_blank">Live app (invite-only)</a>
 
+### 🐈 Pet Tracker · pet-care app for households, on web, PWA and Android
+Rails 8.1 · PostgreSQL · Hotwire · Hotwire Native (Kotlin) · Solid Queue · Nokogiri · Gemini · Railway
+
+- **Price scraping:** a monthly Nokogiri scraper across two Taiwan shopping sites (BigGo HTML, PChome JSON API), ranked by NT$ per kg. Selectors survive hashed class names; a changed layout raises an alert instead of passing as "no results"; rate-limited, follows robots.txt, tested against saved HTML fixtures.
+- **Collaboration:** owners invite caregivers and share read-only links, with one role policy behind every permission; care logs update live via Turbo Streams.
+- **Background work and AI:** reminders at each household's local time with fallback from Android push to LINE to email; Gemini vision turns health-checkup photos into validated ActiveRecord records.
+- **Testing:** about 570 Minitest tests (56 browser tests) with Brakeman, RuboCop and dependency audits in CI.
+
+<a href="https://github.com/yuhruh/Pet_Feeding_Tracker_v4" target="_blank">Code</a> · <a href="https://github.com/yuhruh/Pet_Feeding_Tracker_v4/blob/main/ARCHITECTURE.md" target="_blank">Architecture</a> · <a href="https://pet-feeding-tracker-v4.up.railway.app" target="_blank">Live app (invite-only)</a>
+
+## 🌱 Open Source
+
+- **SerpApi client libraries:** <a href="https://github.com/serpapi/serpapi-ruby/pull/48" target="_blank">serpapi-ruby #48</a> (merged): corrected the README's async section, since `search_archive` does not block. Docs fixes open in <a href="https://github.com/serpapi/serpapi-javascript/pull/61" target="_blank">serpapi-javascript #61</a> and <a href="https://github.com/serpapi/serpapi-cpp/pull/8" target="_blank">serpapi-cpp #8</a>.
+- **Rails:** <a href="https://github.com/rails/rails/pull/58866" target="_blank">rails/rails #58866</a> (open): fix for extended deterministic queries on encrypted attributes that also use `normalizes`. <a href="https://github.com/svenfuchs/rails-i18n/pull/1171" target="_blank">rails-i18n #1171</a> (merged): missing zh-TW keys and translations.
 
 ## 🛠️ Skill Set
 
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Skill</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Programming Languages</strong>
-      </td>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8dac650006498fb91d4099890d9d5e983aa6d0f2c3ff13cc6caf1f6b3b03b90b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f6c6f676f3d72756279266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/8dac650006498fb91d4099890d9d5e983aa6d0f2c3ff13cc6caf1f6b3b03b90b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432443f6c6f676f3d72756279266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="Ruby Badge" data-canonical-src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63aed10ac720e9384af0cc9c8f7dee584170705f91cf4ef747bd97975390fdeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/63aed10ac720e9384af0cc9c8f7dee584170705f91cf4ef747bd97975390fdeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="TypeScript Badge" data-canonical-src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ee7cf7f523d25dd641fbb20146790df37dbc4f48ff9062ccd8f3e83d6e5fb45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030267374796c653d666c6174"><img src="https://camo.githubusercontent.com/0ee7cf7f523d25dd641fbb20146790df37dbc4f48ff9062ccd8f3e83d6e5fb45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030267374796c653d666c6174" alt="JavaScript Badge" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=000&amp;style=flat" style="max-width: 100%;"></a>
-      </td>
-    <tr>
-      <td>
-        <strong>Frontend</strong>
-      </td>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc91c607e9a5bdc39a39dde29b6abfd5bb24ec82f602826754b2e8c295e7966a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3036423644343f6c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/cc91c607e9a5bdc39a39dde29b6abfd5bb24ec82f602826754b2e8c295e7966a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3036423644343f6c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="Tailwind CSS Badge" data-canonical-src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a96c2704a36e1ab93f2d0d03b60a88e333f4df9c8202797c99e67af4d4ff4ac9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/a96c2704a36e1ab93f2d0d03b60a88e333f4df9c8202797c99e67af4d4ff4ac9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="HTML5 Badge" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ecb218c4c57d35463785d6b50dd132361786a5b5d4ddcae8314eea9d99c45b6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/ecb218c4c57d35463785d6b50dd132361786a5b5d4ddcae8314eea9d99c45b6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="CSS3 Badge" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Backend</strong>
-      </td>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ef4da2eec7df797a4c994f62c8cb2a62e095238a4cf1a1dcfa2743a95055f3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792532306f6e2532305261696c732d4343303030303f6c6f676f3d727562796f6e7261696c73266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/8ef4da2eec7df797a4c994f62c8cb2a62e095238a4cf1a1dcfa2743a95055f3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792532306f6e2532305261696c732d4343303030303f6c6f676f3d727562796f6e7261696c73266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="Ruby on Rails Badge" data-canonical-src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=rubyonrails&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2870279a67ba4b35879bd9fd72eec0611bd019c9676e76c1b497d0a37b25deac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5275627925323053696e617472612d3030303f6c6f676f3d7275627973696e61747261266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/2870279a67ba4b35879bd9fd72eec0611bd019c9676e76c1b497d0a37b25deac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5275627925323053696e617472612d3030303f6c6f676f3d7275627973696e61747261266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="Sinatra Badge" data-canonical-src="https://img.shields.io/badge/Sinatra-000?logo=sinatra&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Database</strong>
-      </td>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b97842dbbf639c01b78a03ad3feb6f7c96d76a499d3df5535929690ace16a4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/2b97842dbbf639c01b78a03ad3feb6f7c96d76a499d3df5535929690ace16a4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="PostgreSQL Badge" data-canonical-src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec8eacf3709ad6391b5e778df3de7606081861e917d69dd31c11462b86d28112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030334235373f6c6f676f3d73716c697465266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/ec8eacf3709ad6391b5e778df3de7606081861e917d69dd31c11462b86d28112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030334235373f6c6f676f3d73716c697465266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="SQLite Badge" data-canonical-src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Cloud & Infrastructure</strong>
-      </td>
-      <td>
-        <a target="_blank" href="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge"><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" href="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff&style=flat" alt="Render Badge"><img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff&style=flat" style="max-width: 100%;"></a>
-        <a target="_blank" href="https://img.shields.io/badge/Railway-131313?logo=railway&logoColor=white&style=flat" alt="Railway Badge"><img src="https://img.shields.io/badge/Railway-131313?logo=railway&logoColor=white&style=flat" style="max-width: 100%;"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Other</strong>
-      </td>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54b88f8021f81c26e406a4a339d545870fd06df2c878b9ae7e83cf7ed6eb6f68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d666666267374796c653d666c6174"><img src="https://camo.githubusercontent.com/54b88f8021f81c26e406a4a339d545870fd06df2c878b9ae7e83cf7ed6eb6f68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="Git Badge" data-canonical-src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=fff&amp;style=flat" style="max-width: 100%;"></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Category | Skills |
+| --- | --- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff&style=flat) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails%208-CC0000?logo=rubyonrails&logoColor=fff&style=flat) ![Solid Queue](https://img.shields.io/badge/Solid%20Queue-555?style=flat) ![REST](https://img.shields.io/badge/REST%20APIs-555?style=flat) ![OAuth](https://img.shields.io/badge/OAuth-EB5424?logo=auth0&logoColor=fff&style=flat) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat) ![Hotwire](https://img.shields.io/badge/Hotwire-FFE801?logo=hotwire&logoColor=000&style=flat) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat) ![PWA](https://img.shields.io/badge/PWA%20%2F%20Web%20Push-5A0FC8?logo=pwa&logoColor=fff&style=flat) ![ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D?logo=apacheecharts&logoColor=fff&style=flat) |
+| **Data, Infra & Quality** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) ![Railway](https://img.shields.io/badge/Railway-131313?logo=railway&logoColor=fff&style=flat) ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=flat) ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat) ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat) ![Minitest](https://img.shields.io/badge/Minitest-CC342D?style=flat) ![Brakeman](https://img.shields.io/badge/Brakeman-555?style=flat) ![RuboCop](https://img.shields.io/badge/RuboCop-000?logo=rubocop&logoColor=fff&style=flat) |
+| **AI** | ![Gemini](https://img.shields.io/badge/Gemini%20vision%20API-8E75B2?logo=googlegemini&logoColor=fff&style=flat) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff&style=flat) |
+
+## 🧭 Before software
+
+- **Career transition (2023.05 – 2026.06):** completed Launch School's mastery-based software engineering program and built the two apps above.
+- **Isola Group, Global Process Engineer (2018–2023):** led international product development across R&D, production and customer teams; solved raw-material and process bottlenecks through root-cause analysis.
+- **Nan Ya Plastics, R&D → QA → Technical Support Engineer (2013–2017):** copper-foil quality project with +$3.0M/month revenue; a new measurement method that cut deviation 60%; 10 patent specifications across Asia-Pacific.
+- **Education:** M.S. Chemistry, National Taiwan University · B.S. Chemistry, National Tsing Hua University
 
 ## 😎 Fun Facts
 In my downtime, I love researching cat 😼 behavior, doing core exercises 💪, and practicing yoga.
 
+## 📫 Reach out and connect with me
 
-## 📫 Reach out and Connect with me
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
-  </li>
-  <li>
-    <a href="mailto:yuhruhgrape@gmail.com?subject=Discuss%20about%20Pet%20Feeder%20Tracker%20App&body=Hi%20Rita,%0D%0
-     A%0D%0AI%20would%20like%20to%20learn%20more%20about...">Email</a>
-  </li>
-</ul>
-
-
+- <a href="https://yuhruh.github.io" target="_blank">Portfolio</a>
+- <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
+- <a href="mailto:yuhruhgrape@gmail.com">Email</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhruh&show_icons=true&theme=dark&commits_year=2026)
-
-
-<!--
-**yuhruh/yuhruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
