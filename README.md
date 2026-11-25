@@ -4,7 +4,7 @@ Full-stack engineer building production software across API, web and mobile: **T
 
 📍 Taiwan · Remote · Available 13:00–23:00 GMT+8 (most of the EU workday, US East Coast mornings) · Open to full-time or contract
 
-🌐 <a href="https://yuhruh.github.io" target="_blank">Portfolio</a> · 📄 <a href="https://drive.google.com/file/d/1fVInxwiyuu4mX3hiTltXPavghAyFHowh/view?usp=sharing" target="_blank">Resume</a> · 💼 <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
+🌐 <a href="https://yuhruh.github.io" target="_blank">Portfolio</a> · 📄 <a href="https://drive.google.com/file/d/1dUrtxhf3hqN5J0uz4-QcOUp9DakTpB-P/view?usp=sharing" target="_blank">Resume</a> · 💼 <a href="https://www.linkedin.com/in/yuruhuang/" target="_blank">LinkedIn</a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=yuhruh&color=green&style=flat-square)
 
